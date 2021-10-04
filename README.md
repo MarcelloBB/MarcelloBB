@@ -8,4 +8,8 @@
   </em>
 </p>
 
+## Top Languages:
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloBB&layout=compact&theme=dark)
+
+## Top Tools:
 
