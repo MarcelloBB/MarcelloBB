@@ -8,5 +8,9 @@
   </em>
 </p>
 
-## Top Languages and Tools:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloBB&layout=compact&theme=dark)
+## Languages and Tools:
+<div align="center">
+  <a href="https://github.com/MarcelloBB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelloBB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloBB&layout=compact&langs_count=12&theme=dark"/>
+</div>
