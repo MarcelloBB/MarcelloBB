@@ -2,9 +2,8 @@
 
 <p>
   <em>
-      * 🎉Hi, my name is <b>Marcello</b>🎞<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=100 align="right"/>
-      * 📐I'm a <b>Computer enthusiast</b><br>
-      * 🎨I work with <b>Python</b>🐍,    <b>C</b>📜     and        <b>JavaScript</b>📂<br>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=100 align="right"/>
+      * 📜I'm a <b>computer student</b> and I love <b>math</b><br>
   </em>
 </p>
 
@@ -17,6 +16,8 @@
 
 ## Languages and Tools:
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
