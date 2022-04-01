@@ -11,9 +11,9 @@
 <div align="center">
   <a href="https://github.com/MarcelloBB">
     
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelloBB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=MarcelloBB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloBB&layout=compact&langs_count=6&theme=dark"/>
+  <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloBB&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ## Languages and Tools:
