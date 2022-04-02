@@ -3,10 +3,17 @@
 <p>
   <em>
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=100 align="right"/>
-      * 📜I'm a <b>computer student</b> and I love <b>math</b><br>
+      💡<b>Frontend/Backend</b> student<br>
   </em>
 </p>
 
+```typescript
+const mySkills: object = {
+      frontend: ["Javascript", "Typescript", "HTML", "CSS", "React"].
+      backend: ["Node", "Python"],
+      tools: ["Git", "GitHub"]
+};
+```
 ## Profile:
 <div align="center">
   <a href="https://github.com/MarcelloBB">
