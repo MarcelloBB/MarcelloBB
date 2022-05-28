@@ -2,7 +2,7 @@
 
 <p>
   <em>
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=100 align="right"/>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=100 align="right"/><br>
       💡<b>Frontend/Backend</b> student<br>
   </em>
 </p>
