@@ -9,7 +9,7 @@
 
 ```typescript
 const mySkills: object = {
-      frontend: ["Javascript", "Typescript", "HTML", "CSS", "React"].
+      frontend: ["Javascript", "Typescript", "HTML", "CSS", "Vue JS"].
       backend: ["Node", "Python"],
       tools: ["Git", "GitHub"]
 };
