@@ -1,9 +1,8 @@
-# Hi, I'm Marcello 🍕
-
+<h1 style="align: center": center">Hi, I'm Marcello 🍕</h1>
+                                  >
 <p>
   <em>
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=100 align="right"/><br>
-      💡<b>Frontend/Backend</b> student<br>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height=80 align="center"/><br>
   </em>
 </p>
 
@@ -14,9 +13,3 @@ const mySkills: object = {
       tools: ["Git", "GitHub"]
 };
 ```
-## Profile:
-<div align="center">
-  <a href="https://github.com/MarcelloBB">
-    
-
-    
