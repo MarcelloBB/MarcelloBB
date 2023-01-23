@@ -1,3 +1,3 @@
 # Hello there! I'm Marcello 🍕
 
-I'm currently learning Node/Typescript
+I'm currently learning React/Typescript
